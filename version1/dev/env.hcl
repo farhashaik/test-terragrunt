@@ -1,3 +1,3 @@
 locals {
-    env_tag = "devtest"
+    env_tag = "devtestec2"
 }
