@@ -1,3 +1,3 @@
 locals {
-    env_tag = "detet2tesrin"
+    env_tag = "detettin"
 }
