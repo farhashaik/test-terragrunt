@@ -1,3 +1,3 @@
 locals {
-    env_tag = "detjdbfttin"
+    env_tag = "devtesttag"
 }
